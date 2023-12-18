@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Plant Disease Detection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url("https://c4.wallpaperflare.com/wallpaper/331/66/547/nature-leaves-water-drops-closeup-wallpaper-preview.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .header {
+            color: #fff;
+            text-align: center;
+        }
+        .menu {
+            overflow: hidden;
+        }
+        .menu a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .menu a:hover {
+            background-color: #fbfeff;
+            color: #060606;
+            border-radius: 5px;
+        }
+
+        .content {
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin: 20px auto;
+            max-width: 800px;
+            height: 500px; /* Set a specific height for the content */
+            text-align: center;
+        }
+
+        .image-upload-form {
+            text-align: center;
+        }
+
+        .image-upload-form input[type="file"] {
+            display: none;
+        }
+
+        .camera-button {
+            background-color: #006400;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease-in-out, transform 0.2s ease-in-out;
+        }
+
+        .camera-button:hover {
+            background-color: #004400;
+            transform: scale(1.05); /* Slightly scale up on hover */
+        }
+
+        .camera-label {
+            display: inline-block;
+            margin: 10px;
+            font-size: 18px;
+        }
+
+        .predict-button {
+            background-color: #cf3143; /* Blue background color */
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease-in-out;
+        }
+
+        .predict-button:hover {
+            background-color: #0056b3; /* Slightly darker blue on hover */
+        }
+
+        .image-container {
+            text-align: center;
+        }
+
+        .uploaded-image {
+            padding: 10px;
+            padding-top: 20px;
+            max-width: 100%;
+            margin-top: 20px;
+            display: block;
+            margin: 0 auto;
+            transition: transform 0.3s ease-in-out;
+        }
+
+        .uploaded-image:hover {
+            transform: scale(1.05);
+        }
+        .text {
+    font-size: 26px;
+    color: #333; /* Text color */
+    margin: 20px auto; /* Center the text vertically and horizontally */
+    margin-top:30px;
+    text-align: center;
+    padding: 10px;
+    background-color: #f9f9f9; /* Background color for the text box */
+    border: 1px solid #ccc; /* Border around the text box */
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+    </style>
+</head>
+<body>
+<div class="header">
+    <h1>Plant Disease Detection</h1>
+</div>
+<div class="menu">
+    <a href="#home">Home</a>
+    <a href="#contact">Contact</a>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5-ZVecKfnwBDYToJ8O6nmOFzd_yAyWifjC57g7d7fsVF2aA/viewform?usp=sf_link">Feedback</a>
+    <a href="#support">Support</a>
+</div>
+<div class="content">
+    <div class="image-upload-form">
+        <form action="/img" method="post" enctype="multipart/form-data">
+            <label for="file" class="camera-button">Capture Image</label>
+            <input type="file" name="file" id="file" accept="image/*" required>
+            <input type="submit" value="Predict" class="predict-button" id="predict-button">
+        </form>
+    </div>
+    <div class="text" id="prediction-text"><p style="text-align: center;">Welcome to our website ...!</p>
+        This website helps you to identify plant diseases by captured photo when select photo from your files,
+         our website is which connected to deep learning model that will predict the disease this will help you 
+         to take certain precautions and measures to control these diseases and our website only detects some
+          disease in future we would add more plants information in this website .</div>
+    <div class="image-container">
+        <img id="uploadedImage" class="uploaded-image" src="">
+    </div>
+</div>
+<script>
+    const fileInput = document.getElementById('file');
+    const uploadedImage = document.getElementById('uploadedImage');
+    const predictButton = document.getElementById('predict-button');
+    const predictionText = document.getElementById('prediction-text');
+
+    fileInput.addEventListener('change', function () {
+        const file = fileInput.files[0];
+        if (file) {
+            const imageUrl = URL.createObjectURL(file);
+            uploadedImage.src = imageUrl;
+            
+            // Hide the text when an image is loaded
+            predictionText.style.display = 'none';
+        }
+    });
+
+    predictButton.addEventListener('click', function () {
+        // Show the text when the "Predict" button is clicked
+        predictionText.style.display = 'block';
+    });
+</script>
+</body>
+</html>

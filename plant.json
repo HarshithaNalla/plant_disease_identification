@@ -1,0 +1,309 @@
+[
+    {
+      "name": "APPLE SCAB",
+      "Identification": "Apple scab can infect trees throughout the growing season, with symptoms initially appearing as olive-green spots on leaves, later developing into brown or black circles. Advanced stages may cause leaf distortion, yellowing, and premature leaf drop.",
+      "Root Cause": "Apple scab, caused by Venturia inaequalis, survives winters in fallen diseased leaves. In spring, spores are released from these leaves and carried by wind, rain, or irrigation to tree parts. This cycle can repeat in warm, wet weather, with new spores forming in 9 to 17 days, posing a recurring threat during the growing season.",
+      "Precautions": [
+        "Proper sanitation",
+        "Prune infected branches",
+        "Thoroughly remove diseased leaves",
+        "Spray fungicides"
+      ],
+      "Fertilizers/Actions to manage": "Use Antacol/Dithane M-45 or any other fertilizers with Propineb 70.0% WP, Mancozeb 75.0% WP, Zineb 75.0% WP, Myclobutanil 10.0% WP as active Ingredients."
+    },
+    {
+      "name": "APPLE BLACKROT",
+      "Identification": "Apple blackrot causes large brown rotten areas, concentric rings, and black spots on fruit, with \"frog-eye leaf spots\" on leaves and sunken cankers on branches, often at crotches or on the southwest side of young trees.",
+      "Root Cause": "Apple black rot is primarily caused by the fungal pathogen Botryosphaeria obtusa, which enters through wounds or injuries in warm and humid conditions, leading to fruit and tree infections.",
+      "Precautions": [
+        "Prune out dead or diseased branches",
+        "Remove infected plant material from the area",
+        "All infected plant parts should be burned, buried or sent to a municipal composting site"
+      ],
+      "Fertilizers/Actions to manage": "Use fertilizers with Captan 50.0% WP as active Ingredient."
+    },
+    {
+      "name": "APPLE CEDAR RUST",
+      "Identification": "Apple cedar rust can be identified by bright orange to rusty circular lesions on apple leaves and fruit, often containing small protruding structures. It is a fungal disease that involves both apple and cedar or juniper trees in its life cycle.",
+      "Root Cause": "The root cause of apple cedar rust is the fungal pathogen Gymnosporangium juniperi-virginianae, which infects apple trees when spores from cedar or juniper trees are carried by wind, leading to characteristic rusty lesions on apple leaves and fruit.",
+      "Precautions": [
+        "Remove nearby cedar trees",
+        "Remove and dispose of any infected leaves",
+        "Prune infected branches"
+      ],
+      "Fertilizers/Actions to manage": "Use Nitrogen-based, Potassium-based fertilizers. Fertilizers alone may not be sufficient to control apple cedar disease."
+    },
+    {
+      "name": "CHERRY POWDERY MILDEW",
+      "Identification": "Powdery mildew on apple trees initially appears as light, roughly circular, powdery patches on young, susceptible leaves. It can also affect the undersides of leaves and, as the disease progresses, cause leaf distortion and affect fruit stems, often requiring a hand lens for early fruit infection detection.",
+      "Root Cause": "Powdery mildew of sweet and sour cherry is caused by Podosphaera clandestina, an obligate biotrophic fungus. Mid- and late-season sweet cherry (Prunus avium) cultivars are commonly affected, rendering them unmarketable due to the covering of white fungal growth on the cherry surface.",
+      "Precautions": [
+        "Regular Inspection on young leaves and shoots",
+        "Pruning and Thinning",
+        "Apply fungicides as preventive measures"
+      ],
+      "Fertilizers/Actions to manage": "Foliar sprays based on sulfur, neem oil, kaolin, or ascorbic acid can prevent severe infection. Fungicides based on wettable sulfur (3 g/l), hexaconazole, myclobutanil (all 2 ml/l)."
+    },
+    {
+      "name": "CORN GREY LEAF SPOT",
+      "Identification": "Gray leaf spot (GLS) in corn is identified by rectangular to oblong gray or tan lesions on leaves, which can expand and merge, leading to premature leaf senescence and potential yield loss. It thrives in warm and humid conditions.",
+      "Root Cause": "The root cause of corn gray leaf spot is the fungal pathogen Cercospora zeae-maydis, favored by warm and humid conditions, which allows it to infect corn leaves and cause characteristic lesions.",
+      "Precautions": [
+        "Keep up good ventilation",
+        "Implement crop rotation",
+        "Plow deep and bury all plant residues after harvest"
+      ],
+      "Fertilizers/Actions to manage": "Use Fertilizers with Mancozeb 75.0% WP as active Ingredient."
+    },
+    {
+      "name": "CORN COMMON RUST",
+      "Identification": "Common rust in corn is identified by elongated pustules, often brick red to brown in color, typically found on leaves. It can cause a reduction in photosynthesis and yield.",
+      "Root Cause": "Common rust in corn is caused by the fungal pathogen Puccinia sorghi, which can overwinter in southern regions or be carried northward by wind. The disease is favored by high humidity and moderate temperatures.",
+      "Precautions": [
+        "Plant resistant corn varieties",
+        "Practice crop rotation",
+        "Use fungicides when necessary"
+      ],
+      "Fertilizers/Actions to manage": "Use Fertilizers with Propiconazole 25.0% EC as an active Ingredient."
+    },
+    
+      
+        {
+          "name": "CORN SMUT",
+          "Identification": "Corn smut presents itself as large, swollen, tumor-like galls on corn ears, stalks, and tassels. These galls are filled with black spores and can rupture, releasing a dark, powdery mass.",
+          "Root Cause": "Corn smut is caused by the fungus Ustilago maydis. It infects corn plants through wounds or natural openings, such as silks during pollination.",
+          "Precautions": [
+            "Remove and destroy infected plant material",
+            "Practice crop rotation",
+            "Plant resistant corn varieties"
+          ],
+          "Fertilizers/Actions to manage": "There are no specific fertilizers to manage corn smut, but good cultural practices and removal of infected tissue can help."
+        },
+        
+            {
+              "name": "CORN NORTHERN LEAF BLIGHT",
+              "Identification": "Corn northern leaf blight is identified by long, cigar-shaped lesions with tan to brown coloring, running parallel to leaf veins, and is commonly found on lower leaves, favored by humid conditions. It can lead to leaf curling and affect stalks and ears in severe cases.",
+              "Root Cause": "The root cause of corn northern leaf blight is the fungal pathogen Exserohilum turcicum, which infects corn leaves when its spores encounter susceptible plants, particularly in warm and humid conditions.",
+              "Precautions": [
+                "Weed regularly in and around the field.",
+                "Ensure balanced nutrient supply.",
+                "Avoid excessive nitrogen fertilization.",
+                "Rotate with soybeans, beans, or sunflower to avoid extensive spreading."
+              ],
+              "Fertilizers/Actions to manage": "Bio-fungicides based on Trichoderma harzianum or Bacillus subtilis can be applied. Application of sulfur solutions and fertilizers with Mancozeb 75.0% WP, Zineb 75.0% WP as active ingredients."
+            },
+            {
+              "name": "GRAPE BLACK ROT",
+              "Identification": "Grape black rot presents as circular, dark lesions on leaves and berries with subsequent shriveling, thriving in warm, humid conditions and requiring timely fungicidal management.",
+              "Root Cause": "The root cause of grape black rot is the fungal pathogen Guignardia bidwellii, which infects grapevines and causes characteristic leaf and fruit lesions when environmental conditions, such as warm and humid weather, are conducive to its growth and spread.",
+              "Precautions": [
+                "Prune grapevines to improve air circulation.",
+                "Manage vine canopy density to reduce humidity.",
+                "Apply protectant sprays before disease onset."
+              ],
+              "Fertilizers/Actions to manage": "Apply well-rotted manure and plow well with a ripper. Potassium is also believed to help grapes acquire an intense red color."
+            },
+            {
+              "name": "GRAPE ESCA",
+              "Identification": "Grape esca, caused by fungal pathogens, displays distinctive symptoms including 'tiger stripe' leaf discoloration (necrosis between veins), dieback of grapevine shoots, and premature grapevine leaf fall, leading to grapevine decline.",
+              "Root Cause": "The root cause of grape esca is a complex of fungal pathogens, primarily Phaeomoniella chlamydospora and Phaeoacremonium spp., which infect grapevines through wounds or pruning cuts, colonizing the wood and causing vascular dysfunction, ultimately leading to the characteristic symptoms of the disease.",
+              "Precautions": [
+                "Practice strict sanitation by thoroughly cleaning pruning tools.",
+                "Minimize the size of pruning wounds and ensure clean cuts to reduce infection sites for the pathogens.",
+                "Implement trunk renewal techniques, such as double pruning, to remove infected wood and rejuvenate the vine."
+              ],
+              "Fertilizers/Actions to manage": "Grapes need macronutrients, including Phosphorus, Nitrogen, and Potassium. Micronutrients such as copper, zinc, and iron. So, soil pH should be in 5.5-7.0. To increase soil pH, add dolomitic limestone. To decrease soil pH, modify with sulfur."
+            },
+            {
+              "name": "GRAPE LEAF BLIGHT",
+              "Identification": "Grape leaf blight is identified by circular brown to black lesions on leaves and, in some cases, berries, with subsequent leaf curling and potential fruit damage. Timely pruning and fungicide application are crucial for management.",
+              "Root Cause": "The root cause of grape leaf blight is typically fungal pathogens, including Phomopsis viticola and Guignardia bidwellii, which infect grapevines and cause leaf lesions when environmental conditions, such as humidity and wetness, are conducive to their growth and spread.",
+              "Precautions": [
+                "Maintain proper vineyard hygiene by removing and disposing of infected plant material and debris.",
+                "Prune grapevines during the dormant season.",
+                "Minimize overhead irrigation, as wet foliage can create favorable conditions for disease development."
+              ],
+              "Fertilizers/Actions to manage": "Use fertilizers with Nitrogen, Potassium, and Phosphorus (macro nutrients)."
+            },
+            {
+              "name": "ORANGE HUANGLONGBING",
+              "Identification": "Orange Huanglongbing is identified by mottled yellowing of leaves, asymmetric leaf yellowing, and misshapen, bitter fruit, with no cure and requiring tree removal to prevent spread.",
+              "Root Cause": "The root cause of Orange Huanglongbing (HLB), also known as Citrus Greening Disease, is infection by the bacterium Candidatus Liberibacter asiaticus. This bacterium is transmitted by psyllid insects and colonizes citrus trees, causing systemic damage and a wide range of symptoms that ultimately lead to the decline and death of infected trees.",
+              "Precautions": [
+                "Monitor the citrus grove regularly.",
+                "Maintain a thorough standard of hygiene among workers and tools.",
+                "Remove alternative hosts of the psyllids such as Murraya paniculata, Severinia buxifolia, and other plants in the same family as citrus (Rutaceae)."
+              ],
+              "Fertilizers/Actions to manage": "Injection of the antibiotic tetracycline into the trunk of the trees may result in a partial recovery but has to be repeated often to show effect. Tetracycline is phytotoxic and may have adverse effects on the environment."
+            },
+            {
+              "name": "PEACH BACTERIAL SPOT",
+              "Identification": "Peach bacterial spot is identified by small, dark lesions on leaves and fruit, twig cankers, and is managed through pruning and copper-based fungicides in warm, wet conditions.",
+              "Root Cause": "The root cause of peach bacterial spot is the bacterium Xanthomonas pv. pruni arboricola. It infects peach trees through wounds, leaf stomata, or natural openings and causes the characteristic leaf and fruit lesions and twig cankers associated with the disease.",
+              "Precautions": [
+                "Remove and destroy infected plant material, including leaves, fruit, and branches, to reduce inoculum sources.",
+                "Apply copper-based fungicides during the dormant season or when symptoms first appear, following recommended rates and schedules.",
+                "Maintain clean orchard floors, as fallen leaves and debris can harbor the bacterium."
+              ],
+              "Fertilizers/Actions to manage": "Apply chemical spray with copper-based bactericide and the antibiotic oxytetracycline have some effect when used preventatively."
+            },
+            {
+              "name": "BELL PEPPER BACTERIAL SPOT",
+              "Identification": "Bell pepper bacterial spot, caused by Xanthomonas campestris pv. vesicatoria, is identified by small, dark lesions on leaves and fruit with a yellow halo, and it is managed through copper-based sprays and good sanitation practices, especially in warm, wet conditions.",
+              "Root Cause": "The root cause of bell pepper bacterial spot is infection by the bacterium Xanthomonas campestris pv. vesicatoria. This bacterium enters the plant through natural openings, wounds, or stomata and causes characteristic leaf and fruit lesions, as well as other symptoms associated with the disease.",
+              "Precautions": [
+                "Remove and destroy infected plant material, including leaves, fruit, and debris, to reduce sources of bacterial inoculum.",
+                "Apply copper-based fungicides or bactericides as a preventive measure, following recommended rates and schedules.",
+                "Use drip irrigation instead of overhead irrigation to minimize leaf wetness, as wet leaves create conditions favorable for disease development."
+              ],
+              "Fertilizers/Actions to manage": "Washing seeds for 40 minutes in diluted Clorox (two parts Clorox plus eight parts water) is effective in reducing the bacterial population on a seed’s surface. Beneficial microorganisms containing products, such as Serenade and Sonata, can reduce pepper leaf spot if used proactively."
+            },
+            {
+              "name": "POTATO EARLY BLIGHT",
+              "Identification": "Early blight in potatoes is identified by dark brown-black lesions with yellow halos on lower leaves, leading to wilting, reduced yield; confirm through lab testing.",
+              "Root Cause": "The root cause of potato early blight (Alternaria solani) is a fungal infection primarily caused by the pathogenic fungus Alternaria solani. This fungus infects potato plants, leading to the characteristic leaf lesions and overall plant damage.",
+              "Precautions": [
+                "Plant the rows in the direction of the wind and avoid shady areas.",
+                "Leave enough space between plants so that the tops of the plants dry quickly.",
+                "Cover the soil with mulch to keep the plants from touching the soil.",
+                "Plant or transplant the plants on raised beds to improve drainage."
+              ],
+              "Fertilizers/Actions to manage": "Application of products based on Bacillus subtilis or copper-based fungicides registered as organic can treat the disease. Use fertilizers with Propineb 70.0% WP, Mancozeb 75.0% WP, Copper Oxychloride 50.0% WP, Metiram 55.0% WG, Pyraclostrobin 5.0% WG as active ingredients."
+            },
+            {
+              "name": "POTATO LATE BLIGHT",
+              "Identification": "Identify potato late blight by large irregular dark lesions on leaves, white fuzzy growth on the underside, and rapid plant wilting, especially in wet conditions.",
+              "Root Cause": "The root cause of potato late blight (Phytophthora infestans) is a water mold (oomycete) pathogen called Phytophthora infestans. This pathogen infects potato plants, leading to the characteristic symptoms and widespread crop damage.",
+              "Precautions": [
+                "Avoid planting potatoes in the same location year after year.",
+                "Plant potatoes with adequate spacing to ensure good air circulation.",
+                "Plant potatoes later in the season to avoid peak periods of late blight activity, especially in areas with a history of the disease.",
+                "Store harvested potatoes in a cool, dry place to prevent the spread of the disease to stored tubers."
+              ],
+              "Fertilizers/Actions to manage": "Fungicides can be used if the disease is severe, but azoxystrobin, chlorothalonil, mancozeb, and pyraclostrobin may require multiple applications to destroy the fungus completely."
+            },
+            {
+              "name": "SQUASH POWDERY MILDEW",
+              "Identification": "Identify squash powdery mildew by the presence of white powdery patches on squash leaves and potential leaf distortion, leading to reduced plant vigor and fruit deformities if left untreated.",
+              "Root Cause": "Squash powdery mildew is caused by the fungal pathogen Podosphaera xanthii, which thrives in warm, dry conditions and results in the distinctive white powdery growth on squash leaves and plant parts.",
+              "Precautions": [
+                "Plant squash with adequate spacing between plants to improve air circulation.",
+                "Water the base of the plants in the morning to allow the leaves to dry during the day.",
+                "Apply mulch to the soil around the base of squash plants to prevent soil splashing onto the leaves."
+              ],
+              "Fertilizers/Actions to manage": "Sulfur and 'Stylet' oil are effective products for powdery mildew control. Fixed copper fungicides have also shown results in managing powdery mildew. Neem oil is also an effective combatant for managing powdery mildew."
+            },
+            {
+              "name": "STRAWBERRY LEAF SCORCH",
+              "Identification": "Identify strawberry leaf scorch by the presence of small, reddish-purple lesions with dark borders and a whitish center on strawberry leaves, which can lead to leaf damage and reduced fruit production if left untreated.",
+              "Root Cause": "Strawberry leaf scorch is caused by the fungal pathogen Diplocarpon earlianum, which infects strawberry plants, leading to leaf lesions and reducing the health and productivity of the plants. Effective disease management is essential to protect strawberry crops.",
+              "Precautions": [
+                "Plant strawberries with proper spacing to promote air circulation.",
+                "Use drip irrigation or soaker hoses to water the base of the plants and keep the foliage dry.",
+                "Apply a layer of mulch, such as straw or pine needles, around strawberry plants to prevent soil splashing onto the leaves, which can spread the disease."
+              ],
+              "Fertilizers/Actions to manage": "Use fertilizers with Nitrogen, Phosphorous, Potassium for better growth of Strawberries."
+            },
+            {
+              "name": "TOMATO BACTERIAL SPOT",
+              "Identification": "Tomato bacterial spot is identified by small, dark lesions on tomato leaves and fruit, often surrounded by a yellow halo. These lesions can lead to leaf defoliation and reduced fruit quality.",
+              "Root Cause": "Tomato bacterial spot is caused by the bacterium Xanthomonas campestris pv. vesicatoria, leading to dark lesions on tomato leaves and fruit, which can result in significant crop damage if left unmanaged.",
+              "Precautions": [
+                "Avoid injuring transplants during handling or planting.",
+                "Ensure sufficient space between plants.",
+                "Mulch the soil to avoid soil-to-plant contamination."
+              ],
+              "Fertilizers/Actions to manage": "Copper-containing bactericides provide a protective cover on foliage and fruit for both bacteria. Submerge seeds for one minute in sodium hypochlorite or in hot water for 25 minutes."
+            },
+            {
+              "name": "TOMATO EARLY BLIGHT",
+              "Identification": "Tomato early blight is identified by the presence of small, dark brown to black lesions with concentric rings on lower tomato leaves. These lesions may also have a yellow halo, and as the disease progresses, the affected leaves may wither and die, impacting overall plant health.",
+              "Root Cause": "The root cause of tomato early blight is the fungal pathogen Alternaria solani. This fungus infects tomato plants, primarily targeting the leaves.",
+              "Precautions": [
+                "Plant or transplant the plants on raised beds to improve drainage.",
+                "Plant the rows in the direction of the wind and avoid shady areas.",
+                "Remove the bottom leaves that are too close to the soil.",
+                "Use stakes to keep the plants upright depending on the crop."
+              ],
+              "Fertilizers/Actions to manage": "Application of products based on Bacillus subtilis or copper-based fungicides registered as organic can treat the disease. Use fertilizers with Azoxystrobin 18.2% SC, Difenoconazole 11.4% SC, Tebuconazole 50.0% WG, Trifloxystrobin 25.0% WG, Mancozeb 75.0% WP, Copper Oxychloride 50.0% WP as active ingredients."
+            },
+            {
+              "name": "TOMATO LATE BLIGHT",
+              "Identification": "Identify tomato late blight by the appearance of large, irregularly shaped, dark green to brown-black lesions with a water-soaked texture on tomato leaves and fruit. The affected plant parts may also exhibit a characteristic foul odor, and in humid conditions, a white, fuzzy mold growth can develop on the underside of leaves.",
+              "Root Cause": "The root cause of tomato late blight (Phytophthora infestans) is a water mold (oomycete) pathogen called Phytophthora infestans. This pathogen infects tomato plants, leading to severe damage, including dark lesions and mold growth, especially in damp conditions. Effective disease management is crucial for preserving tomato crops.",
+              "Precautions": [
+                "Plant tomatoes with adequate spacing between plants to improve air circulation.",
+                "Use drip irrigation or soaker hoses to water the base of the plants and keep the foliage dry.",
+                "Apply organic mulch, such as straw or wood chips, around tomato plants to prevent soil splashing onto the leaves and stems."
+              ],
+              "Fertilizers/Actions to manage": "Silicate-containing fertilizers may increase the resistance to the fungus, especially in the seedling stage. Use fertilizers with Azoxystrobin 18.2% SC, Difenoconazole 11.4% SC, Chlorothalonil 33.1% SC, Metalaxyl-M 3.3% SC, Azoxystrobin 23.0% SC as active ingredients."
+            },
+            {
+              "name": "TOMATO LEAF MOLD",
+              "Identification": "Identify tomato leaf mold by the presence of yellow or pale greenish-yellow patches on the upper side of tomato leaves, often accompanied by a fuzzy, grayish-white to brownish mold growth on the underside.",
+              "Root Cause": "The root cause of tomato leaf mold is the fungal pathogen Passalora fulva, also known as Fulvia fulva. This fungus infects tomato plants and causes the characteristic symptoms associated with leaf mold.",
+              "Precautions": [
+                "Keep the relative humidity below 85% and night temperatures higher than outside temperatures.",
+                "Use drip irrigation and avoid watering foliage.",
+                "Use a stake, strings, or prune the plant to keep it upstanding and increase airflow in and around it."
+              ],
+              "Fertilizers/Actions to manage": "Seed treatment with hot water is recommended to avoid the pathogen on seeds. The fungi Acremonium strictum, Dicyma pulvinate, Trichoderma hazarium or T. viride strain 3 and T. roseum by 53, 66, and 84%, respectively. In small arms, apple-cider, garlic or milk sprays and vinegar mix can be used to treat the mold."
+            },
+            {
+              "name": "TOMATO SEPTORIA LEAF SPOT",
+              "Identification": "Tomato septoria leaf spot is identified by the presence of small, round, dark brown to black spots with a lighter center on tomato leaves. These spots often have a distinctive 'bullseye' appearance and may cause leaf yellowing and defoliation if left untreated.",
+              "Root Cause": "The root cause of tomato septoria leaf spot is the fungal pathogen Septoria lycopersici. This fungus infects tomato plants, primarily targeting the leaves.",
+              "Precautions": [
+                "Apply organic or plastic mulch to avoid transmission from soil.",
+                "Improve air circulation and keep plants off the ground with stakes.",
+                "Do not use sprinklers or other overhead irrigation."
+              ],
+              "Fertilizers/Actions to manage": "Copper-based fungicides, such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate, might help control the pathogen. Apply at 7-10 day intervals throughout the late season. Use fertilizers with Fluxapyroxad 25.0% SC, Pyraclostrobin 25.0% SC as active ingredient."
+            },
+            {
+              "name": "TOMATO SPIDER MITES",
+              "Identification": "Identify tomato spider mites by their tiny size, pale green to yellow color, stippling damage on leaves, and the presence of fine webbing on the undersides of affected leaves. Early detection and treatment are essential to prevent severe damage to tomato plants.",
+              "Root Cause": "The root cause of tomato spider mites (Tetranychus urticae) is the presence of these tiny arachnids on tomato plants. They feed on plant sap, piercing plant cells with their mouthparts, and can rapidly infest tomato crops, especially in warm and dry conditions, causing damage to leaves and reducing plant vigor.",
+              "Precautions": [
+                "Isolate or remove infested plants as soon as you detect spider mites to prevent them from spreading to healthy plants.",
+                "Maintain adequate soil moisture levels to create an environment less favorable to spider mites.",
+                "Apply horticultural oils or insecticidal soaps as a non-toxic control method to smother and kill spider mites."
+              ],
+              "Fertilizers/Actions to manage": "Use predator mites to aid in controlling the pest mites. Wash the plant with mild soap and rinse well to remove some of the mites and prune out heavily infested areas. Avoid nitrogen fertilizer."
+            },
+            {
+              "name": "TOMATO TARGET SPOT",
+              "Identification": "Tomato target spot is identified by the presence of round to irregularly shaped dark lesions on tomato leaves with concentric rings, giving them a distinctive bullseye appearance. These lesions can lead to leaf defoliation and reduced plant health if left untreated.",
+              "Root Cause": "The root cause of tomato target spot is the fungal pathogen Corynespora cassiicola. This fungus infects tomato plants, particularly the leaves.",
+              "Precautions": [
+                "Use drip irrigation or soaker hoses to water the base of the plants and keep the foliage dry.",
+                "Apply organic mulch, such as straw or wood chips, around tomato plants to prevent soil splashing onto the leaves and stems.",
+                "Plant tomatoes with adequate spacing between plants to improve air circulation."
+              ],
+              "Fertilizers/Actions to manage": "Use copper-containing fungicides as a protective cover on foliage. Apply fungicides with Difenoconazole 25.0% EC, Propiconazole 25.0% EC as active ingredients. Avoid overhead irrigation."
+            },
+            {
+                "name": "TOMATO YELLOW LEAF CURL VIRUS",
+                "Identification": "Tomato Yellow Leaf Curl Virus (TYLCV) is identified by distinct symptoms in tomato plants, including severe leaf curling, yellowing, and stunted growth. Infected plants often exhibit upward cupping of the leaves and reduced fruit production, leading to significant crop damage.",
+                "Root Cause": "TYLCV is caused by a group of viruses within the Tomato Yellow Leaf Curl Virus complex, primarily spread by whiteflies, leading to severe leaf curling, yellowing, and reduced tomato yields.",
+                "Precautions": [
+                  "Plant early to avoid peak populations of the whitefly.",
+                  "Intercrop the rows of non-susceptible plants such as squash and cucumber.",
+                  "Use nets to cover seedbeds and prevent whiteflies from reaching plants.",
+                  "Use sticky yellow plastic traps to mass-catch the insect."
+                ],
+                "Fertilizers/Actions to manage": "Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies."
+              },
+              {
+                "name": "TOMATO MOSAIC VIRUS",
+                "Identification": "Identify Tomato Mosaic Virus (TMV) by the presence of mosaic patterns and mottling on tomato leaves, often accompanied by leaf deformation and reduced plant vigor, which can impact tomato production.",
+                "Root Cause": "The root cause of Tomato Mosaic Virus (TMV) is the infection of tomato plants by the Tobacco Mosaic Virus (TMV), which belongs to the Tobamovirus group.",
+                "Precautions": [
+                  "Avoid smoking near tomato plants, as tobacco products can harbor TMV and transmit it to plants.",
+                  "Immediately remove and isolate any plants displaying TMV symptoms to prevent the spread of the virus to healthy plants.",
+                  "Regularly sterilize gardening tools and equipment."
+                ],
+                "Fertilizers/Actions to manage": "Plants infected with CMV and fertilized with bio-organic fertilizers (compost and compost tea) and mineral fertilizers showed a clear recovery in all the tested growth parameters, and disease severity was reduced as compared with unfertilized ones."
+              }
+          ]
+          
